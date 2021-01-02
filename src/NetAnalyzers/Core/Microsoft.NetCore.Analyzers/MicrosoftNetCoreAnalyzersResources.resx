@@ -1515,4 +1515,16 @@
     <value>'{0}' all versions</value>
     <comment>This call site is reachable on: 'Windows' all versions.</comment>
   </data>
+  <data name="UseEnvironmentPropertiesMessage" xml:space="preserve">
+    <value>Use '{0}' instead of '{1}'</value>
+    <comment>Use 'Environment.CurrentManagedThreadId' instead of 'Thread.CurrentManagedThreadId'</comment>
+  </data>
+  <data name="UseEnvironmentPropertiesTitle" xml:space="preserve">
+    <value>Use '{0}'</value>
+    <comment>Use 'Environment.CurrentManagedThreadId'</comment>
+  </data>
+  <data name="UseEnvironmentPropertiesFix" xml:space="preserve">
+    <value>Use '{0}'</value>
+    <comment>Use 'Environment.CurrentManagedThreadId'</comment>
+  </data>
 </root>

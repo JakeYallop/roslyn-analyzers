@@ -2157,6 +2157,21 @@
         <target state="translated">請使用 'Environment.ProcessId'</target>
         <note />
       </trans-unit>
+      <trans-unit id="UseEnvironmentPropertiesFix">
+        <source>Use '{0}'</source>
+        <target state="new">Use '{0}'</target>
+        <note>Use 'Environment.CurrentManagedThreadId'</note>
+      </trans-unit>
+      <trans-unit id="UseEnvironmentPropertiesMessage">
+        <source>Use '{0}' instead of '{1}'</source>
+        <target state="new">Use '{0}' instead of '{1}'</target>
+        <note>Use 'Environment.CurrentManagedThreadId' instead of 'Thread.CurrentManagedThreadId'</note>
+      </trans-unit>
+      <trans-unit id="UseEnvironmentPropertiesTitle">
+        <source>Use '{0}'</source>
+        <target state="new">Use '{0}'</target>
+        <note>Use 'Environment.CurrentManagedThreadId'</note>
+      </trans-unit>
       <trans-unit id="UseIndexer">
         <source>Use indexer</source>
         <target state="translated">使用索引子</target>
