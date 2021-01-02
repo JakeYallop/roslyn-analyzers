@@ -1317,7 +1317,7 @@ Use 'Environment.CurrentManagedThreadId' instead of 'Thread.CurrentThread.Manage
 |Category|Performance|
 |Enabled|True|
 |Severity|Info|
-|CodeFix|False|
+|CodeFix|True|
 ---
 
 ## [CA2000](https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2000): Dispose objects before losing scope
